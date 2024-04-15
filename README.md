@@ -1,4 +1,4 @@
-## Introduction 🌟
+## Introduction 🔆
  👋 Hello! I'm Eric Chung, a Project Control Engineer with a profound enthusiasm for Data Science and Machine Learning.
  
 ## Career Aspirations 🚀
