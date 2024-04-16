@@ -9,5 +9,5 @@
 ## Invitation to Explore 📚
 Curious about the projects keep me up at night ? Dive into my [Learning Record](https://github.com/Eric-Chung-0511/Learning-Record)
 
-It's where I stash all my data-driven adventures and machine learning escapades. It’s like my professional diary, but with less teenage angst and more algorithms 😉
+It's where I stash all my data-driven adventures and machine learning escapades. It’s like my professional diary, but with less teenage angst and more algorithms. 😉
 
