@@ -1,13 +1,35 @@
-## Introduction 🔆
- 👋 Hello! I'm Eric Chung, a Project Control Engineer with a profound enthusiasm for Data Science and Machine Learning.
+ From **Project Control** at a globally recognized EPC company to **AI & Machine Learning Enthusiast**, I'm weaving together my experience in mega-project management with cutting-edge tech - think of it as upgrading from construction blueprints to neural networks!
  
-## Career Aspirations 🚀
-🔹 Driven by a passion to unlock insights and solve complex challenges, **I am actively seeking to transition my career towards a role as a Data Scientist or Machine Learning Engineer** . This role aligns strongly with my skills and aspirations.
+👋 Hi there! I’m Eric Chung—a former Project Control Engineer turned AI explorer. My journey began orchestrating large-scale infrastructure projects, where I drove cost control and schedule management for some of the most intricate engineering challenges But my passion for **data** and **AI-driven solutions** inspired me to switch gears and dive deep into the fascinating realms of **machine learning** and **deep learning**.  
 
-🔹 While my primary focus is on becoming a Data Scientist, I am also open to exploring roles like Data Analyst or Data Engineer, where I can leverage my analytical skills and passion for data in a dynamic environment. This approach allows me to embrace challenges and contribute to innovative solutions.
+Think of me as an **engineer-turned-data-whisperer**, solving problems one algorithm at a time while applying the precision of project management to the limitless possibilities of AI.
 
-## Invitation to Explore 📚
-🤔 Wondering what fuels my late-night learning sessions? Explore my  [Learning Record](https://github.com/Eric-Chung-0511/Learning-Record) to see the projects that spark my curiosity and drive my passion!
+---
 
-Think of it as my professional diary minus the teenage angst, plus more algorithms. 😉
+## **What I Do 💡**
+🔹 **Machine Learning & AI Enthusiast**:  
+Building solutions that go beyond traditional data analysis and machine learning. I specialize in **deep learning**, with hands-on experience in **computer vision** and **natural language processing**. From training neural networks to fine-tuning pre-trained models, I thrive on turning complex data into actionable insights.  
+
+🔹 **Project Manager Turned Data Explorer**:  
+Drawing from my engineering project management background, I bring a structured, results-driven mindset to every data problem I tackle. Just as we plan massive projects by breaking them into achievable milestones, I approach data challenges piece by piece - unlocking new possibilities at the intersection of project management and data science.
+
+---
+
+## **Explore My Work 🌟**
+📂 Curious about my projects? Check these out:  
+
+- 🐾 **PawMatchAI**  
+   Your go-to app for **Breed Detection**, **Breed Comparison**, and **Breed Recommendation**. Whether you're looking to identify your furry friend or find your perfect pet match, this project has got you covered!  
+   - [🌐 Try it on Hugging Face](https://huggingface.co/spaces/DawnC/PawMatchAI)  
+   - [📂 Explore the Repo](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
+
+- 📒 **[Learning Record](https://github.com/Eric-Chung-0511/Learning-Record)**  
+   My professional diary where I document my AI experiments, deep learning projects, and the occasional victory against pesky bugs. Think of it as a journal—minus the teenage angst, plus more convolutional layers. 😉  
+
+---
+
+## **Let’s Connect 🤝**
+📫 **Want to talk AI, data, or engineering?** I’m always excited to connect with like-minded individuals and explore opportunities to collaborate.  
+
+> _"Every problem has a solution—it’s just waiting for the right algorithm."_  
 
