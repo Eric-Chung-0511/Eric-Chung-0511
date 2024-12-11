@@ -31,3 +31,6 @@ Drawing from my engineering project management background, I bring a structured,
 📫 **Want to talk AI, data, or project management?** I'm always excited to connect with like-minded individuals and explore opportunities to collaborate. In my journey from project management to AI, I've come to embrace this philosophy:
 
 > *"Every challenge is a puzzle—it's just waiting for the right combination of algorithms and insight."*
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:substantial79@gmail.com)
+
