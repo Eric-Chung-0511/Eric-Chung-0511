@@ -19,7 +19,7 @@ Drawing from my engineering project management background, I bring a structured,
 📂 Curious about my projects? Check these out:  
 
 - 🐾 **PawMatchAI**  
-   Your go-to app for **Breed Detection**, **Breed Comparison**, and **Breed Recommendation**. Whether you're looking to identify your furry friend or find your perfect pet match, this project has got you covered!  
+   This model is primarily designed for **Breed Detection**, but when I deployed it on **Hugging Face Spaces**, I enhanced it by adding features such as **Breed Comparison** and **Breed Recommendation**. Whether you're looking to identify your furry friend or searching for the perfect pet to match your preferences, this project has all the tools to help you!
    - [🌐 Try it on Hugging Face](https://huggingface.co/spaces/DawnC/PawMatchAI)  
    - [📂 Explore the Repo](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
 
