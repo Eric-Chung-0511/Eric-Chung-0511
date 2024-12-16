@@ -8,7 +8,7 @@ Think of me as an **engineer-turned-data-whisperer**, solving problems one algor
 
 ## **What I Do 💡**
 🔹 **Machine Learning & AI Enthusiast**:  
-Building solutions that go beyond traditional data analysis and machine learning. I specialize in **deep learning**, with hands-on experience in **computer vision** and **natural language processing**. From training neural networks to fine-tuning pre-trained models, I thrive on turning complex data into actionable insights.  
+I go beyond traditional **machine learning** by diving deep into **deep learning** techniques. With hands-on experience in **computer vision** and **natural language processing**, I specialize in training neural networks and fine-tuning pre-trained models. I’m passionate about transforming complex data into actionable insights that drive real-world impact.
 
 🔹 **Project Manager Turned Data Explorer**:  
 Drawing from my engineering project management background, I bring a structured, results-driven mindset to every data problem I tackle. Just as we plan massive projects by breaking them into achievable milestones, I approach data challenges piece by piece - unlocking new possibilities at the intersection of project management and data science.
