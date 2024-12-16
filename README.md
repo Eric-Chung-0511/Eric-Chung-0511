@@ -1,6 +1,6 @@
 From **Project Control** at a globally recognized EPC company to **AI & Machine Learning Enthusiast**, I'm weaving together my experience in mega-project management with cutting-edge tech - think of it as upgrading from construction blueprints to neural networks!
  
-👋 Hi there! I’m Eric Chung—a former Project Control Engineer turned AI explorer. My journey began orchestrating large-scale infrastructure projects, where I drove cost control and schedule management for some of the most intricate engineering challenges But my passion for **data** and **AI-driven solutions** inspired me to switch gears and dive deep into the fascinating realms of **machine learning** and **deep learning**.  
+👋 Hi there! I’m Eric Chung— a Project Control Engineer on a journey to transition into the world of **AI** and **machine learning**. My career began with orchestrating large-scale infrastructure projects, where I managed cost control and schedules for intricate engineering challenges. But my growing passion for **data**and **AI-driven solutions** has led me to dive deep into **machine learning** and **deep learning**, as I work to bridge my project management expertise with the power of AI. 
 
 Think of me as an **engineer-turned-data-whisperer**, solving problems one algorithm at a time while applying the precision of project management to the limitless possibilities of AI.
 
