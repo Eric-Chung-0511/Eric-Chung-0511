@@ -24,7 +24,7 @@ Drawing from my engineering project management background, I bring a structured,
    - [📂 Explore the Repo](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
 
 - 📒 **[Learning Record](https://github.com/Eric-Chung-0511/Learning-Record)**  
-   My professional diary where I document my AI experiments, deep learning projects, and the occasional victory against pesky bugs. Think of it as a journal—minus the teenage angst, plus more convolutional layers. 😉  
+   My professional diary where I document my AI experiments, traditional machine learning projects, deep learning projects, and the occasional victory against pesky bugs. Think of it as a journal—minus the teenage angst, plus more convolutional layers. 😉  
 
 ---
 
