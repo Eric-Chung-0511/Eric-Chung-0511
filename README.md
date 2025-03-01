@@ -26,6 +26,10 @@ Drawing from my engineering project management background, I bring a structured,
 - 📒 **[Learning Record](https://github.com/Eric-Chung-0511/Learning-Record)**  
    My professional diary where I document my AI experiments, traditional machine learning projects, deep learning projects, and the occasional victory against pesky bugs. Think of it as a journal—minus the teenage angst, plus more convolutional layers. 😉  
 
+- ✍️ **Technical Writing on Medium**  
+  I share deeper insights about AI design philosophy, implementation challenges, and learning experiences through my technical articles.
+  - [🧠 "Biomimetic Design in AI: How Human Vision Inspired PawMatchAI's Morphological Feature Extractor"](https://medium.com/@eigeninsight/%E5%BE%9E%E6%A8%A1%E7%B3%8A%E5%88%B0%E7%B2%BE%E6%BA%96-%E5%BD%A2%E6%85%8B%E7%89%B9%E5%BE%B5%E6%8F%90%E5%8F%96%E5%99%A8%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87-ai-%E7%9A%84%E8%AD%98%E5%88%A5%E8%83%BD%E5%8A%9B-f32af7661bc1)
+    
 ---
 
 📫 **Want to talk AI, data, or project management?** I'm always excited to connect with like-minded individuals and explore opportunities to collaborate. In my journey from project management to AI, I've come to embrace this philosophy:
