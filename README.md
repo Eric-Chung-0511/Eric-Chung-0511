@@ -32,11 +32,11 @@ I share insights about AI design philosophy, implementation challenges, and lear
 
 ### English Publications
 - [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://medium.com/@eigeninsight/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities-362ca2a656ff)
-- Coming soon: The Art of Hybrid Architecture: Combining CNN and Transformer for Fine-Grained Visual Classification
+- [Coming soon]: The Art of Hybrid Architecture: Combining CNN and Transformer for Fine-Grained Visual Classification
 
 ### 中文發表
 - [「從模糊到精準：形態特徵提取器如何提升 AI 的識別能力」](https://medium.com/@eigeninsight/%E5%BE%9E%E6%A8%A1%E7%B3%8A%E5%88%B0%E7%B2%BE%E6%BA%96-%E5%BD%A2%E6%85%8B%E7%89%B9%E5%BE%B5%E6%8F%90%E5%8F%96%E5%99%A8%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87-ai-%E7%9A%84%E8%AD%98%E5%88%A5%E8%83%BD%E5%8A%9B-f32af7661bc1)
-- [「混合架構的藝術：結合CNN與Transformer提升細粒度視覺分類」](https://medium.com/@eigeninsight/%E6%B7%B7%E5%90%88%E6%9E%B6%E6%A7%8B%E7%9A%84%E8%97%9D%E8%A1%93-%E7%B5%90%E5%90%88cnn%E8%88%87transformer%E6%8F%90%E5%8D%87%E7%B4%B0%E7%B2%92%E5%BA%A6%E8%A6%96%E8%A6%BA%E5%88%86%E9%A1%9E-7fad90610f7b)
+- [敬請期待]「混合架構的藝術：結合CNN與Transformer提升細粒度視覺分類」
     
 ---
 
