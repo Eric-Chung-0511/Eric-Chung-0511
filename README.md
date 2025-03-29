@@ -35,6 +35,8 @@ I share insights about AI design philosophy, implementation challenges, and lear
 🌐 **Towards Data Science**
 - [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/)
 
+- [The Art of Hybrid Architectures](https://towardsdatascience.com/the-art-of-hybrid-architectures/)
+
   
 🌐 **Medium**
 
