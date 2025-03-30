@@ -6,7 +6,7 @@ Now, I’m combining the structured mindset of engineering execution with hands-
 
 ---
 
-## 🧠 Highlights at a Glance
+## ✨ Highlights at a Glance
 
 - 🐾 **[PawMatchAI](https://huggingface.co/spaces/DawnC/PawMatchAI)**  
    A hybrid deep learning system that combines CNN, Transformer, and a custom morphological feature extractor to classify **124 dog breeds**. Deployed on Hugging Face with **30,000+ visits**, featured on **Spaces of the Week**, and includes breed comparison and personalized recommendation.
