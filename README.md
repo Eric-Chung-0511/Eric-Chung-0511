@@ -19,7 +19,7 @@ Now, I’m combining the structured mindset of engineering execution with hands-
    My central repository documenting my full learning journey — from data science projects and SQL practice, to deep learning experiments and reusable helper tools. Each project includes a detailed README, reflecting both hands-on skills and structured thinking.
 
 - ✍️ **Technical Writing @ Towards Data Science**  
-   I write about deep learning architectures, hybrid modeling, and AI design trade-offs — blending technical clarity with storytelling.  
+   I write about deep learning architectures, hybrid modeling, and AI design trade-offs, blending technical clarity with storytelling.  
    Featured articles on TDS:
    - 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/)  
    - 🧩 [The Art of Hybrid Architectures](https://towardsdatascience.com/the-art-of-hybrid-architectures/)
