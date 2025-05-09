@@ -14,6 +14,12 @@ Now, I’m combining the structured mindset of engineering execution with hands-
    **Previously featured on Hugging Face’s “Spaces of the Week”**, with 30K+ visits.  
    → [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/PawMatchAI) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
 
+- 🛰️ **Vision Scout**  
+   A scene understanding system that fuses **YOLOv8** and **CLIP** to interpret both objects and context in images and videos.  
+   Goes beyond detection by generating **narrative descriptions**, identifying **functional zones**, and analyzing **lighting, safety, and activities**.  
+   **Also featured in Hugging Face’s “Spaces of the Week”**, praised for its interactive and storytelling-driven approach.  
+   → [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
+  
 
 - 📘 **[Learning Record](https://github.com/Eric-Chung-0511/Learning-Record)**  
    My central repository documenting my full learning journey — from data science projects and SQL practice, to deep learning experiments and reusable helper tools. Each project includes a detailed README, reflecting both hands-on skills and structured thinking.
