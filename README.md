@@ -15,8 +15,8 @@ Now, I’m combining the structured mindset of engineering execution with hands-
    → [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/PawMatchAI) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
 
 - 🛰️ **Vision Scout**
-    A scene understanding system that fuses **YOLOv8** and **CLIP** to interpret both objects and context in images and videos.
-    Goes beyond detection by generating **narrative descriptions, refined and humanized by Large Language Models (LLMs like Llama 3.2)**, identifying **functional zones**, and analyzing **lighting, safety, and activities**.
+  A scene understanding system that fuses **YOLOv8** and **CLIP** to interpret both objects and context in images and videos.
+   Goes beyond detection by generating **narrative descriptions, refined and humanized by Large Language Models (LLMs like Llama 3.2)**, identifying **functional zones**,   and  analyzing **lighting, safety, and activities**.
     **Also featured in Hugging Face’s “Spaces of the Week”**, praised for its interactive and storytelling-driven approach.
     → [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
   
