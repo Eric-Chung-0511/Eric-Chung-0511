@@ -17,7 +17,8 @@ Now, I’m combining the structured mindset of engineering execution with hands-
 - 🛰️ **Vision Scout**
    An advanced multi-modal scene understanding system that orchestrates **YOLOv8**, **CLIP**, **Places365**, and **Llama 3.2** in intelligent collaboration to deliver comprehensive visual analysis. This integration enables the system to simultaneously process object detection, semantic context, environmental classification, and linguistic refinement, producing **narrative descriptions that transform raw visual data into human-readable stories**. The system identifies **functional zones**, analyzes **lighting conditions**, and infers **activities and safety considerations** through sophisticated multi-model fusion techniques.
    **Featured in Hugging Face's "Spaces of the Week"** for its innovative storytelling-driven approach to computer vision.
-       → [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
+       →
+  [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
 
 - 📘 **[Learning Record](https://github.com/Eric-Chung-0511/Learning-Record)**  
    My central repository documenting my full learning journey — from data science projects and SQL practice, to deep learning experiments and reusable helper tools. Each project includes a detailed README, reflecting both hands-on skills and structured thinking.
