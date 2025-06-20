@@ -27,6 +27,7 @@ Now, I’m combining the structured mindset of engineering execution with hands-
    Featured articles on TDS:
    - 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/)  
    - 🧩 [The Art of Hybrid Architectures](https://towardsdatascience.com/the-art-of-hybrid-architectures/)
+   - 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/)
 
 ---
 
