@@ -37,7 +37,7 @@ Now, I’m combining the structured mindset of engineering execution with hands-
 Hands-on in **computer vision**, **NLP**, and **model deployment**, with a focus on building useful, explainable, and well-integrated AI solutions.
 
 🔹 **Engineer Turned Data Explorer**  
-From managing construction schedules to training models, I carry the same structured, iterative mindset — whether it’s defining MVPs or analyzing feature contributions.
+From managing construction schedules and cost to training models, I carry the same structured, iterative mindset — whether it’s defining MVPs or analyzing feature contributions.
 
 I also have experience with **feature engineering**, **data preprocessing**, and **traditional machine learning pipelines**. I believe in the principle of _"Garbage in, garbage out"_: a lesson that applies as much to XGBoost as it does to a poorly defined CPM schedule. A well-prepared dataset, like a well-sequenced project timeline, determines everything downstream.
 
