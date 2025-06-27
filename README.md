@@ -22,12 +22,14 @@ Now, I’m combining the structured mindset of engineering execution with hands-
 - 📘 **[Learning Record](https://github.com/Eric-Chung-0511/Learning-Record)**  
    My central repository documenting my full learning journey — from data science projects and SQL practice, to deep learning experiments and reusable helper tools. Each project includes a detailed README, reflecting both hands-on skills and structured thinking.
 
-- ✍️ **Technical Writing @ Towards Data Science**  
-   I write about deep learning architectures, hybrid modeling, and AI design trade-offs, blending technical clarity with storytelling.  
-   Featured articles on TDS:
-   - 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/)  
-   - 🧩 [The Art of Hybrid Architectures](https://towardsdatascience.com/the-art-of-hybrid-architectures/)
-   - 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/)
+### ✍️ **Technical Writing @ Towards Data Science**  
+I write about deep learning architectures, hybrid modeling, and AI system design, blending technical clarity with conceptual depth. All articles are selected as **Deep Dives**.
+
+| Title | Published | Pageviews | Engaged Views | Highlights |
+|-------|-----------|-----------|----------------|------------|
+| 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/) | 2025/03/25 | 502 | 294 | Morphological reasoning in CNNs |
+| 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,404 | 729 | Layered hybrid design: CNN + Transformer |
+| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 4,288 | 1,283 | Multimodal system design & architecture thinking |
 
 ---
 
