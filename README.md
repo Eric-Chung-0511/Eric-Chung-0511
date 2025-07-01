@@ -28,8 +28,8 @@ I write about deep learning architectures, hybrid modeling, and AI system design
 | Title | Published | Pageviews | Engaged Views | Highlights |
 |-------|-----------|-----------|----------------|------------|
 | 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/) | 2025/03/25 | 502 | 294 | Morphological reasoning in CNNs |
-| 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,404 | 731 | Layered hybrid design: CNN + Transformer |
-| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 4,728 | 1,457 | Multimodal system design & architecture thinking |
+| 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,406 | 733 | Layered hybrid design: CNN + Transformer |
+| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 4,771 | 1,474 | Multimodal system design & architecture thinking |
 
 ---
 
