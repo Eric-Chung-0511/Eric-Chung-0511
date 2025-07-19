@@ -11,7 +11,7 @@ Now, I’m combining the structured mindset of engineering execution with hands-
 - 🐾 **PawMatchAI**  
    A hybrid model for **dog breed classification and recommendation**, combining CNN, Transformer, and custom feature extractors.  
    Designed to help users **identify breeds**, **compare characteristics**, and **find a good match**.  
-   **Previously featured on Hugging Face’s “Spaces of the Week”**, with 30K+ visits.  
+   **Previously featured on Hugging Face’s “Spaces of the Week”**, with 31K+ visits.  
    → [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/PawMatchAI) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
 
 - 🛰️ **Vision Scout**
