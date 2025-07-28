@@ -6,18 +6,31 @@ Now, I’m combining the structured mindset of engineering execution with hands-
 
 ---
 
-## ✨ Highlights at a Glance
+# ✨ Highlights at a Glance
 
-- 🐾 **PawMatchAI**  
-   A hybrid model for **dog breed classification and recommendation**, combining CNN, Transformer, and custom feature extractors.  
-   Designed to help users **identify breeds**, **compare characteristics**, and **find a good match**.  
-   **Previously featured on Hugging Face’s “Spaces of the Week”**, with 32K+ visits.  
-   → [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/PawMatchAI) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
+## 🐾 PawMatchAI
+**A hybrid model for dog breed classification and recommendation**
 
-- 🛰️ **Vision Scout**
-   An advanced multi-modal scene understanding system that orchestrates **YOLOv8**, **CLIP**, **Places365**, and **Llama 3.2** in intelligent collaboration to deliver comprehensive visual analysis. This integration enables the system to simultaneously process object detection, semantic context, environmental classification, and linguistic refinement, producing **narrative descriptions that transform raw visual data into human-readable stories**. The system identifies **functional zones**, analyzes **lighting conditions**, and infers **activities and safety considerations** through sophisticated multi-model fusion techniques.
-   **Featured in Hugging Face's "Spaces of the Week"** for its innovative storytelling-driven approach to computer vision.
-  →[🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
+PawMatchAI combines a CNN backbone with Transformer layers to create an advanced system for dog breed identification and matching. The project features several key innovations and achievements:
+
+- **Advanced Architecture**: Hybrid model combining Convolutional Neural Networks with Transformer layers for enhanced feature extraction and classification accuracy
+- **Custom Feature Engineering**: Proprietary Morphological Feature Extractor inspired by expert veterinary observation patterns
+- **High Performance**: Achieved an impressive 88.7% F1-score on breed classification tasks
+- **Multi-functional Platform**: Enables users to identify breeds, compare breed characteristics, and find optimal matches based on lifestyle preferences
+- **Recognition: Featured on Hugging Face's "Spaces of the Week" with over 32,000+ visits and 13,000k GPU runs**
+- **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/PawMatchAI) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0S11/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
+
+## 🛰️ Vision Scout
+**Advanced multi-modal system for deep scene understanding**
+
+Vision Scout represents a sophisticated approach to visual intelligence, orchestrating multiple state-of-the-art models to transform complex visual data into comprehensive narratives:
+
+- **Multi-model Architecture**: Seamlessly integrates YOLOv8, CLIP, Places365, and Llama 3.2 for comprehensive scene analysis
+- **Deep Understanding**: Transforms raw visual data into human-readable stories and detailed scene descriptions
+- **Advanced Processing**: Combines object detection, image classification, scene recognition, and natural language generation
+- **Community Recognition**: Featured on Hugging Face's "Spaces of the Week" with significant user engagement
+- **Performance Metrics: Over 10,000 visits and 4,000+ GPU runs within three months, demonstrating strong user adoption**
+- **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
 
 - 📘 **[Learning Record](https://github.com/Eric-Chung-0511/Learning-Record)**  
    My central repository documenting my full learning journey — from data science projects and SQL practice, to deep learning experiments and reusable helper tools. Each project includes a detailed README, reflecting both hands-on skills and structured thinking.
