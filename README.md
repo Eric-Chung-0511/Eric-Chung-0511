@@ -44,7 +44,6 @@ The Learning Record repository chronicles a complete journey through data scienc
 - **[Time Series Forecasting](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/Walmart%20Sales%20Prediction)**: Retail sales prediction implementing ARIMA and SARIMAX statistical methodologies
 - **[Signal Processing](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/Human%20Activity%20Recognition%20with%20Smartphones)**: Human activity recognition from smartphone sensor data using advanced preprocessing and dimensionality reduction techniques
 - **[Audio Classification](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/Music%20Genre)**: Music genre classification from audio features with sophisticated feature engineering and model optimization
-- **Technical Excellence**: Production-ready implementations featuring advanced preprocessing, feature engineering, and comprehensive documentation
 
 **Links**: [🗂️ Explore the Repository](https://github.com/Eric-Chung-0511/Learning-Record)
 
