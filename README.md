@@ -17,7 +17,7 @@ PawMatchAI combines a CNN backbone with Transformer layers to create an advanced
 - **Custom Feature Engineering**: Proprietary Morphological Feature Extractor inspired by expert veterinary observation patterns
 - **High Performance**: Achieved an impressive 88.7% F1-score on breed classification tasks
 - **Multi-functional Platform**: Enables users to identify breeds, compare breed characteristics, and find optimal matches based on lifestyle preferences
-- **Recognition: Featured on Hugging Face's "Spaces of the Week" with over 32,000+ visits and 13,000k GPU runs**
+- **Recognition: Featured on Hugging Face's "Spaces of the Week" with over 32,000+ visits and 13,000 GPU runs**
 - **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/PawMatchAI) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0S11/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
 
 ## 🛰️ Vision Scout
