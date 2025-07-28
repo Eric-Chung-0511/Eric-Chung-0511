@@ -17,7 +17,7 @@ PawMatchAI combines a CNN backbone with Transformer layers to create an advanced
 - **Custom Feature Engineering**: Proprietary Morphological Feature Extractor inspired by expert veterinary observation patterns
 - **High Performance**: Achieved an impressive 88.7% F1-score on breed classification tasks
 - **Multi-functional Platform**: Enables users to identify breeds, compare breed characteristics, and find optimal matches based on lifestyle preferences
-- **Recognition: Featured on Hugging Face's "Spaces of the Week" with over 32,000+ visits and 13,000 GPU runs**
+- **Recognition**: Featured on Hugging Face's "Spaces of the Week" with over 32,000+ visits and 13,000 GPU runs
 - **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/PawMatchAI) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0S11/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
 
 ## 🛰️ Vision Scout
@@ -29,11 +29,24 @@ Vision Scout represents a sophisticated approach to visual intelligence, orchest
 - **Deep Understanding**: Transforms raw visual data into human-readable stories and detailed scene descriptions
 - **Advanced Processing**: Combines object detection, image classification, scene recognition, and natural language generation
 - **Community Recognition**: Featured on Hugging Face's "Spaces of the Week" with significant user engagement
-- **Performance Metrics: Over 10,000 visits and 4,000+ GPU runs within three months, demonstrating strong user adoption**
+- **Performance Metrics**: Over 10,000 visits and 4,000+ GPU runs within three months, demonstrating strong user adoption
 - **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
 
-- 📘 **[Learning Record](https://github.com/Eric-Chung-0511/Learning-Record)**  
-   My central repository documenting my full learning journey — from data science projects and SQL practice, to deep learning experiments and reusable helper tools. Each project includes a detailed README, reflecting both hands-on skills and structured thinking.
+## 📘 Learning Record
+**Comprehensive data science and machine learning portfolio repository**
+
+The Learning Record repository chronicles a complete journey through data science fundamentals while tackling real-world business challenges. This collection represents hands-on experience solving complex problems across multiple industries and technical disciplines:
+
+- **[Financial Analytics](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/Credit%20Card%20Fraud%20Detection)**: Credit card fraud detection achieving 99% AUC performance using XGBoost and Bayesian optimization
+- **[Credit Risk Assessment](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/Credit%20Score%20Classification)**: Comprehensive credit score classification models with 85% accuracy utilizing ensemble methods and neural networks
+- **[Natural Language Processing](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/MBTI%20Prediction)**: Advanced MBTI personality prediction through sophisticated text analysis and NLP techniques
+- **[Customer Analytics](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/E-Commerce)**: E-commerce segmentation analysis using K-means and DBSCAN with optimized silhouette scores
+- **[Time Series Forecasting](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/Walmart%20Sales%20Prediction)**: Retail sales prediction implementing ARIMA and SARIMAX statistical methodologies
+- **[Signal Processing](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/Human%20Activity%20Recognition%20with%20Smartphones)**: Human activity recognition from smartphone sensor data using advanced preprocessing and dimensionality reduction techniques
+- **[Audio Classification](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/Music%20Genre)**: Music genre classification from audio features with sophisticated feature engineering and model optimization
+- **Technical Excellence**: Production-ready implementations featuring advanced preprocessing, feature engineering, and comprehensive documentation
+
+**Links**: [🗂️ Explore the Repository](https://github.com/Eric-Chung-0511/Learning-Record)
 
 ### ✍️ **Technical Writing @ Towards Data Science**  
 I write about deep learning architectures, hybrid modeling, and AI system design, blending technical clarity with conceptual depth. All articles are selected as **Deep Dives**.
