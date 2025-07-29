@@ -17,7 +17,7 @@ PawMatchAI combines a CNN backbone with Transformer layers to create an advanced
 - **Custom Feature Engineering**: Proprietary Morphological Feature Extractor inspired by expert veterinary observation patterns
 - **High Performance**: Achieved an impressive 88.7% F1-score on breed classification tasks
 - **Multi-functional Platform**: Enables users to identify breeds, compare breed characteristics, and find optimal matches based on lifestyle preferences
-- **Recognition**: Featured on Hugging Face's "Spaces of the Week" with over 32,000+ visits and 13,000 GPU runs
+- **Recognition: Featured on Hugging Face's "Spaces of the Week" with over 32,000+ visits and 13,000 GPU runs**
 - **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/PawMatchAI) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI)
 
 ## 🛰️ Vision Scout
@@ -28,8 +28,8 @@ Vision Scout represents a sophisticated approach to visual intelligence, orchest
 - **Multi-model Architecture**: Seamlessly integrates YOLOv8, CLIP, Places365, and Llama 3.2 for comprehensive scene analysis
 - **Deep Understanding**: Transforms raw visual data into human-readable stories and detailed scene descriptions
 - **Advanced Processing**: Combines object detection, image classification, scene recognition, and natural language generation
-- **Community Recognition**: Featured on Hugging Face's "Spaces of the Week" with significant user engagement
-- **Performance Metrics**: Over 10,000 visits and 4,000+ GPU runs within three months, demonstrating strong user adoption
+- **Community Recognition: Featured on Hugging Face's "Spaces of the Week" with significant user engagement**
+- **Performance Metrics: Over 10,000 visits and 4,000+ GPU runs within three months, demonstrating strong user adoption**
 - **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
 
 ## 📘 Learning Record
