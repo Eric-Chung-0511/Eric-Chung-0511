@@ -11,7 +11,7 @@ Now, I’m combining the structured mindset of engineering execution with hands-
 ## 🐾 PawMatchAI
 **A hybrid model for dog breed classification and recommendation**
 
-PawMatchAI combines a CNN backbone with Transformer layers to create an advanced system for dog breed identification and matching. The project features several key innovations and achievements:
+PawMatchAI combines a sophisticated CNN backbone with advanced Transformer layers and a specialized Morphological Feature Extractor to create an innovative hybrid architecture for comprehensive dog breed identification. The project features several key innovations and achievements:
 
 - **Advanced Architecture**: Hybrid model combining Convolutional Neural Networks with Transformer layers for enhanced feature extraction and classification accuracy
 - **Custom Feature Engineering**: Proprietary Morphological Feature Extractor inspired by expert veterinary observation patterns
