@@ -16,7 +16,7 @@ PawMatchAI combines a sophisticated CNN backbone with advanced Transformer layer
 - **Advanced Architecture**: Hybrid model combining Convolutional Neural Networks with Transformer layers for enhanced feature extraction and classification accuracy
 - **Custom Feature Engineering**: Proprietary Morphological Feature Extractor inspired by expert veterinary observation patterns
 - **High Performance**: Achieved an impressive 88.7% F1-score on breed classification tasks
-- **Multi-functional Platform**: Enables users to identify breeds, compare breed characteristics, and find optimal matches based on lifestyle preferences
+- **Multi-functional Platform**: Enables users to identify breeds, compare breed characteristics, and get LLM-powered recommendations for optimal matches based on lifestyle preferences
 - **Business Intelligence Integration**: Comprehensive Tableau dashboard transforms breed classification data into strategic business insights, analyzing market segmentation patterns and delivering analytical breed recommendations
 - **Recognition: Featured on Hugging Face's "Spaces of the Week" with over 32,000+ visits and 13,000 GPU runs**
 - **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/PawMatchAI) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/PawMatchAI) | [📊 Business Dashboard](https://public.tableau.com/app/profile/eric.chung6319/viz/Visualization_Analysis/Insights)
