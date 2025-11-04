@@ -54,10 +54,10 @@ I write about deep learning architectures, hybrid modeling, and AI system design
 | Title | Published | Pageviews | Engaged Views | Highlights |
 |-------|-----------|-----------|----------------|------------|
 | 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/) | 2025/03/25 | 502 | 294 | Morphological reasoning in CNNs |
-| 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,455 | 766 | Layered hybrid design: CNN + Transformer |
-| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 5,708 | 1,979 | Multimodal system design & architecture thinking |
-| 🤖 [Four AI Minds in Concert: A Deep Dive into Multimodal AI Fusion](https://towardsdatascience.com/four-ai-minds-in-concert-a-deep-dive-into-multimodal-ai-fusion/) | 2025/07/02 | 2,133 | 878 | An in-depth exploration of multi-model collaboration in AI systems  |
-| 🌍 [Scene Understanding in Action: Real-World Validation of Multimodal AI Integration](https://towardsdatascience.com/scene-understanding-in-action-real-world-validation-of-multimodal-ai-integration/) | 2025/07/10 | 546 | 327 | Real-world benchmarking of integrated AI collaborative systems |
+| 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,463 | 768 | Layered hybrid design: CNN + Transformer |
+| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 5,739 | 1,999 | Multimodal system design & architecture thinking |
+| 🤖 [Four AI Minds in Concert: A Deep Dive into Multimodal AI Fusion](https://towardsdatascience.com/four-ai-minds-in-concert-a-deep-dive-into-multimodal-ai-fusion/) | 2025/07/02 | 2,140 | 882 | An in-depth exploration of multi-model collaboration in AI systems  |
+| 🌍 [Scene Understanding in Action: Real-World Validation of Multimodal AI Integration](https://towardsdatascience.com/scene-understanding-in-action-real-world-validation-of-multimodal-ai-integration/) | 2025/07/10 | 553 | 332 | Real-world benchmarking of integrated AI collaborative systems |
 ---
 
 ## 💡 What I Do
