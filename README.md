@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eric — From Project Control Engineer to AI Explorer
 
-I began my career as a **Project Control Engineer** at a globally recognized EPC company, managing cost and schedules for large-scale infrastructure projects. Over time, I became deeply intrigued by the power of **data** and **AI-driven systems**, especially their potential to bring scalable solutions to the real world.
+I began my career as a **Project Control Engineer** at a globally recognized EPC company, managing Schedule and Cost for large-scale infrastructure projects. Over time, I became deeply intrigued by the power of **data** and **AI-driven systems**, especially their potential to bring scalable solutions to the real world.
 
 Now, I’m combining the structured mindset of engineering execution with hands-on **machine learning development**, from training deep learning models to deploying full-stack AI applications.
 
