@@ -26,7 +26,7 @@ PawMatchAI combines a sophisticated CNN backbone with advanced Transformer layer
 
 Vision Scout represents a sophisticated approach to visual intelligence, orchestrating multiple state-of-the-art models to transform complex visual data into comprehensive narratives:
 
-- **Multi-model Architecture**: Seamlessly integrates YOLOv8, CLIP, Places365, and Llama 3.2 for comprehensive scene analysis
+- **Multi-model Architecture**: Seamlessly integrates YOLO 11, CLIP, Places365, and Llama 3.2 for comprehensive scene analysis
 - **Deep Understanding**: Transforms raw visual data into human-readable stories and detailed scene descriptions
 - **Advanced Processing**: Combines object detection, image classification, scene recognition, and natural language generation
 - **Community Recognition: Featured on Hugging Face's "Spaces of the Week" with significant user engagement**
