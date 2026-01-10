@@ -33,6 +33,23 @@ Vision Scout represents a sophisticated approach to visual intelligence, orchest
 - **Performance Metrics: Over 10,000 visits and 4,000+ GPU runs within three months, demonstrating strong user adoption**
 - **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
 
+## 🌊 VividFlow
+**Professional AI-powered image enhancement and video generation platform**
+
+VividFlow represents a significant advancement in accessible AI content creation, combining professional-grade image-to-video generation with intelligent background replacement in a unified platform. The system addresses critical pain points in digital content production by enabling non-technical users to transform static imagery into dynamic, broadcast-quality videos while simultaneously offering sophisticated background synthesis capabilities. The project features several key innovations and achievements:
+
+- **Dual Creative Workflow**: Unified platform integrating image-to-video generation with intelligent background replacement, enabling comprehensive visual content transformation within a single interface
+- **Advanced Motion Intelligence**: Eight curated motion template categories specifically designed to prevent common generation artifacts such as phantom limbs in portraits, with support for custom natural language prompt engineering
+- **Optimized Performance Architecture**: FP8 quantization achieving fifty percent memory reduction while maintaining ninety-eight percent visual quality, combined with Lightning LoRA distillation enabling four-step inference comparable to traditional fifty-step processes
+- **Sophisticated Background Synthesis**: Multi-tier segmentation architecture employing BiRefNet and rembg for precise subject extraction, with twenty-four professionally curated scene templates spanning studios, natural environments, urban settings, and artistic atmospheres
+- **Artifact-Free Compositing**: Advanced Lab color space blending technology eliminates common edge artifacts through chroma desaturation, adaptive strength mapping, and multi-scale edge refinement
+- **Independent Workflow Architecture**: Dual-tab interface ensures computational independence between video generation and background synthesis, maintaining optimal performance across both creative modalities
+- **Recognition: Featured on HuggingFace's "Spaces of the Week" with remarkable early traction, achieving over 12,000 visits within two weeks of deployment, demonstrating strong market validation for integrated AI visual content creation tools despite longer generation times required for professional-quality output**
+
+VividFlow's impact extends beyond technical achievement into practical creative empowerment, democratizing professional-grade video production and environmental compositing capabilities previously requiring specialized software expertise and expensive production infrastructure.
+
+**Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VividFlow) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VividFlow)
+
 ## 📘 Learning Record
 **Comprehensive data science and machine learning portfolio repository**
 
