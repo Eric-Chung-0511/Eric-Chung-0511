@@ -80,12 +80,13 @@ I write about deep learning architectures, hybrid modeling, and AI system design
 ## 💡 What I Do
 
 🔹 **Machine Learning & AI Enthusiast**  
-Hands-on in **computer vision**, **NLP**, and **model deployment**, with a focus on building useful, explainable, and well-integrated AI solutions.
+Hands-on in **deep learning**, **computer vision**, **NLP**, and **model deployment**, with a focus on building useful, explainable, and well-integrated AI solutions.
 
-🔹 **Engineer Turned Data Explorer**  
-From managing construction schedules and cost to training models, I carry the same structured, iterative mindset — whether it’s defining MVPs or analyzing feature contributions.
+🔹 **Engineer Turned AI Builder**  
+From managing construction schedules to orchestrating multi-model AI systems, I carry the same structured, iterative mindset—whether defining MVPs or architecting segmentation pipelines. I bring ideas from concept to working code: background replacement with Lab color space correction, multimodal fusion with YOLO + CLIP, morphological feature extractors that enhance CNN reasoning.
 
-I also have experience with **feature engineering**, **data preprocessing**, and **traditional machine learning pipelines**. I believe in the principle of _"Garbage in, garbage out"_: a lesson that applies as much to XGBoost as it does to a poorly defined CPM schedule. A well-prepared dataset, like a well-sequenced project timeline, determines everything downstream.
+🔹 **Data Quality Advocate**  
+I believe in _"Garbage in, garbage out"_—a lesson that applies as much to training transformers as it does to a poorly defined CPM schedule. Whether it's feature engineering for XGBoost or preprocessing for diffusion models, a well-prepared dataset determines everything downstream.
 
 ---
 
