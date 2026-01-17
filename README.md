@@ -67,13 +67,14 @@ The Learning Record repository chronicles a complete journey through data scienc
 ### ✍️ **Technical Writing @ Towards Data Science**  
 I write about deep learning architectures, hybrid modeling, and AI system design, blending technical clarity with conceptual depth. All articles are selected as **Deep Dives**.
 
-| Title | Published | Pageviews | Engaged Views | Highlights |
-|-------|-----------|-----------|----------------|------------|
-| 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/) | 2025/03/25 | 504 | 294 | Morphological reasoning in CNNs |
-| 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,498 | 780 | Layered hybrid design: CNN + Transformer |
-| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 5,976 | 2,152 | Multimodal system design & architecture thinking |
-| 🤖 [Four AI Minds in Concert: A Deep Dive into Multimodal AI Fusion](https://towardsdatascience.com/four-ai-minds-in-concert-a-deep-dive-into-multimodal-ai-fusion/) | 2025/07/02 | 2,158 | 894 | An in-depth exploration of multi-model collaboration in AI systems  |
-| 🌍 [Scene Understanding in Action: Real-World Validation of Multimodal AI Integration](https://towardsdatascience.com/scene-understanding-in-action-real-world-validation-of-multimodal-ai-integration/) | 2025/07/10 | 574 | 352 | Real-world benchmarking of integrated AI collaborative systems |
+| Title | Published | Pageviews | Engaged Views | Highlights | Recognition |
+|-------|-----------|-----------|----------------|------------|-------------|
+| 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/) | 2025/03/25 | 505 | 294 | Morphological reasoning in CNNs | Deep Dives |
+| 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,499 | 781 | Layered hybrid design: CNN + Transformer | Deep Dives |
+| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 5,986 | 2,159 | Multimodal system design & architecture thinking | Deep Dives |
+| 🤖 [Four AI Minds in Concert: A Deep Dive into Multimodal AI Fusion](https://towardsdatascience.com/four-ai-minds-in-concert-a-deep-dive-into-multimodal-ai-fusion/) | 2025/07/02 | 2,163 | 895 | An in-depth exploration of multi-model collaboration in AI systems | Deep Dives |
+| 🌍 [Scene Understanding in Action: Real-World Validation of Multimodal AI Integration](https://towardsdatascience.com/scene-understanding-in-action-real-world-validation-of-multimodal-ai-integration/) | 2025/07/10 | 575 | 352 | Real-world benchmarking of integrated AI collaborative systems | Deep Dives |
+| 🎨 [From RGB to Lab: Addressing Color Artifacts in AI Image Compositing](https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/) | 2025/01/16 | 84 | 3 | Three-tier segmentation strategy & Lab color space correction | Editor's Pick |
 ---
 
 ## 💡 What I Do
