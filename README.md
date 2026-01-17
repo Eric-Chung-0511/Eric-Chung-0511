@@ -65,7 +65,7 @@ The Learning Record repository chronicles a complete journey through data scienc
 **Links**: [🗂️ Explore the Repository](https://github.com/Eric-Chung-0511/Learning-Record)
 
 ### ✍️ **Technical Writing @ Towards Data Science**  
-I write about deep learning architectures, hybrid modeling, and AI system design, blending technical clarity with conceptual depth. All articles are selected as **Deep Dives**.
+I write about deep learning architectures, hybrid modeling, and AI system design—translating complex concepts into actionable engineering insights.
 
 | Title | Published | Pageviews | Engaged Views | Highlights | Recognition |
 |-------|-----------|-----------|----------------|------------|-------------|
