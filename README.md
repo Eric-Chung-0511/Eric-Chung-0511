@@ -69,10 +69,10 @@ I write about deep learning architectures, hybrid modeling, and AI system design
 |-------|-----------|-----------|----------------|------------|-------------|
 | 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/) | 2025/03/25 | 505 | 294 | Morphological reasoning in CNNs | Deep Dives |
 | 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,500 | 781 | Layered hybrid design: CNN + Transformer | Deep Dives |
-| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 5,991 | 2,163 | Multimodal system design & architecture thinking | Deep Dives |
-| 🤖 [Four AI Minds in Concert: A Deep Dive into Multimodal AI Fusion](https://towardsdatascience.com/four-ai-minds-in-concert-a-deep-dive-into-multimodal-ai-fusion/) | 2025/07/02 | 2,164 | 895 | An in-depth exploration of multi-model collaboration in AI systems | Deep Dives |
+| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 5,993 | 2,163 | Multimodal system design & architecture thinking | Deep Dives |
+| 🤖 [Four AI Minds in Concert: A Deep Dive into Multimodal AI Fusion](https://towardsdatascience.com/four-ai-minds-in-concert-a-deep-dive-into-multimodal-ai-fusion/) | 2025/07/02 | 2,165 | 895 | An in-depth exploration of multi-model collaboration in AI systems | Deep Dives |
 | 🌍 [Scene Understanding in Action: Real-World Validation of Multimodal AI Integration](https://towardsdatascience.com/scene-understanding-in-action-real-world-validation-of-multimodal-ai-integration/) | 2025/07/10 | 576 | 352 | Real-world benchmarking of integrated AI collaborative systems | Deep Dives |
-| 🎨 [From RGB to Lab: Addressing Color Artifacts in AI Image Compositing](https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/) | 2026/01/16 | 119 | 27 | Three-tier segmentation strategy & Lab color space correction | Editor's Pick |
+| 🎨 [From RGB to Lab: Addressing Color Artifacts in AI Image Compositing](https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/) | 2026/01/16 | 145 | 43 | Three-tier segmentation strategy & Lab color space correction | Editor's Pick |
 ---
 
 ## 💡 What I Do
