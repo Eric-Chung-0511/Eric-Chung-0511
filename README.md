@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Eric — From Project Control Engineer to AI Explorer
 
-I began my career as a **Project Control Engineer** at a globally recognized EPC company, managing Schedule and Cost for large-scale infrastructure projects. Over time, I became deeply intrigued by the power of **data** and **AI-driven systems**, especially their potential to bring scalable solutions to the real world.
+I began my career as a **Project Control Engineer** at CTCI, Taiwan's largest international EPC company, where I spent four years specializing in cost and schedule control for large-scale infrastructure projects. Throughout my engineering career, I worked across multiple project phases and disciplines, developing expertise in both cost analysis and schedule management while supporting various long-term industrial initiatives.
 
-Now, I’m combining the structured mindset of engineering execution with hands-on **machine learning development**, from training deep learning models to deploying full-stack AI applications.
+This experience taught me to work effectively in high-complexity environments, synthesize information from diverse sources, coordinate across cross-functional teams, and deliver reliable analysis under pressure. Whether tracking performance metrics or developing project schedules, the fundamental skill remained constant: transforming complex data into actionable insights that support decision-making.
+
+Over time, I became deeply intrigued by the power of **data** and **AI-driven systems**, especially their potential to bring scalable solutions to the real world. Now, I'm combining the structured analytical mindset I developed in engineering execution with hands-on **machine learning development**, from training deep learning models to deploying full-stack AI applications.
+
+**What makes my background unique:** My engineering experience equipped me with skills that directly translate to AI product development—breaking down ambiguous problems into executable approaches, balancing technical feasibility with practical constraints, coordinating with diverse stakeholders, and adapting quickly to new technical domains. Whether I'm architecting a multimodal AI system or designing an image segmentation pipeline, the core competency remains the same: understanding complex problems, structuring practical solutions, and delivering measurable results.
 
 ---
 
@@ -87,19 +91,25 @@ From managing construction schedules to orchestrating multi-model AI systems, I 
 🔹 **Data Quality Advocate**  
 I believe in _"Garbage in, garbage out"_—a lesson that applies as much to training transformers as it does to a poorly defined CPM schedule. Whether it's feature engineering for XGBoost or preprocessing for diffusion models, a well-prepared dataset determines everything downstream.
 
+🔹 **Product-Minded Developer**  
+I don't just build AI models—I develop solutions that address real user needs. PawMatchAI emerged from understanding breed selection challenges; VisionScout transforms complex visual scenes into comprehensive narratives for users seeking deeper image understanding; VividFlow tackles professional content creation for non-technical users. I prioritize features based on impact, iterate based on feedback, and measure success through actual adoption. The 68,000+ combined visits across my projects reflect this user-first approach, as does my technical writing on Towards Data Science—translating complex architectures into actionable insights for practitioners.
+
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-I’m open to new opportunities in:
+I'm actively seeking opportunities in:
 
-**👉 AI Product / Technical PM**
+**👉 AI Product Manager / Associate Product Manager**  
+**👉 Technical Program Manager**  
+**👉 Machine Learning Engineer**  
 
-**👉 Machine Learning Engineer**
+**I'm particularly interested in connecting with:**
+- Teams building AI-powered products in computer vision, generative AI, or multimodal systems
+- Organizations that value both technical depth and product thinking
+- Companies fostering a culture of open collaboration and continuous learning
 
-**👉 Data Scientist**  
-
-If you're building AI products with real world impact, I’d love to collaborate.
+Whether you're exploring potential collaboration, looking for someone to join your team, or want to discuss AI product development challenges, I'd welcome the conversation.
 
 > *"Every challenge is a puzzle — it's just waiting for the right combination of algorithms and insight."*
 
