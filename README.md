@@ -92,7 +92,7 @@ From managing construction schedules to orchestrating multi-model AI systems, I 
 I believe in _"Garbage in, garbage out"_—a lesson that applies as much to training transformers as it does to a poorly defined CPM schedule. Whether it's feature engineering for XGBoost or preprocessing for diffusion models, a well-prepared dataset determines everything downstream.
 
 🔹 **Product-Minded Developer**  
-I don't just build AI models—I develop solutions that address real user needs. PawMatchAI emerged from understanding breed selection challenges; VisionScout transforms complex visual scenes into comprehensive narratives for users seeking deeper image understanding; VividFlow tackles professional content creation for non-technical users. I prioritize features based on impact, iterate based on feedback, and measure success through actual adoption. The 68,000+ combined visits across my projects reflect this user-first approach, as does my technical writing on Towards Data Science—translating complex architectures into actionable insights for practitioners.
+I don't just build AI models, I develop solutions that address real user needs. PawMatchAI emerged from understanding breed selection challenges; VisionScout transforms complex visual scenes into comprehensive narratives for users seeking deeper image understanding; VividFlow tackles professional content creation for non-technical users. I prioritize features based on impact, iterate based on feedback, and measure success through actual adoption. The 69,000+ combined visits across my projects reflect this user-first approach, as does my technical writing on Towards Data Science—translating complex architectures into actionable insights for practitioners.
 
 ---
 
