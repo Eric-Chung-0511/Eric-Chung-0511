@@ -76,11 +76,11 @@ I write about deep learning architectures, hybrid modeling, and AI system design
 | Title | Published | Pageviews | Engaged Views | Highlights | Recognition |
 |-------|-----------|-----------|----------------|------------|-------------|
 | 🧠 [From Fuzzy to Precise: How Morphological Feature Extractors Enhance AI Recognition](https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities/) | 2025/03/25 | 505 | 294 | Morphological reasoning in CNNs | Deep Dives |
-| 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,500 | 783 | Layered hybrid design: CNN + Transformer | Deep Dives |
-| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 6,006 | 2,171 | Multimodal system design & architecture thinking | Deep Dives |
-| 🤖 [Four AI Minds in Concert: A Deep Dive into Multimodal AI Fusion](https://towardsdatascience.com/four-ai-minds-in-concert-a-deep-dive-into-multimodal-ai-fusion/) | 2025/07/02 | 2,167 | 896 | An in-depth exploration of multi-model collaboration in AI systems | Deep Dives |
-| 🌍 [Scene Understanding in Action: Real-World Validation of Multimodal AI Integration](https://towardsdatascience.com/scene-understanding-in-action-real-world-validation-of-multimodal-ai-integration/) | 2025/07/10 | 578 | 353 | Real-world benchmarking of integrated AI collaborative systems | Deep Dives |
-| 🎨 [From RGB to Lab: Addressing Color Artifacts in AI Image Compositing](https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/) | 2026/01/16 | 223 | 98 | Three-tier segmentation strategy & Lab color space correction | Editor's Pick |
+| 🧩 [The Art of Hybrid Architectures: Blending Convolutional and Transformer Models for Explainability](https://towardsdatascience.com/the-art-of-hybrid-architectures/) | 2025/03/28 | 1,501 | 783 | Layered hybrid design: CNN + Transformer | Deep Dives |
+| 🔗 [Beyond Model Stacking: The Architecture Principles That Make Multimodal AI Systems Work](https://towardsdatascience.com/the-art-of-multimodal-ai-system-design/) | 2025/06/19 | 6,022 | 2,179 | Multimodal system design & architecture thinking | Deep Dives |
+| 🤖 [Four AI Minds in Concert: A Deep Dive into Multimodal AI Fusion](https://towardsdatascience.com/four-ai-minds-in-concert-a-deep-dive-into-multimodal-ai-fusion/) | 2025/07/02 | 2,172 | 897 | An in-depth exploration of multi-model collaboration in AI systems | Deep Dives |
+| 🌍 [Scene Understanding in Action: Real-World Validation of Multimodal AI Integration](https://towardsdatascience.com/scene-understanding-in-action-real-world-validation-of-multimodal-ai-integration/) | 2025/07/10 | 583 | 356 | Real-world benchmarking of integrated AI collaborative systems | Deep Dives |
+| 🎨 [From RGB to Lab: Addressing Color Artifacts in AI Image Compositing](https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/) | 2026/01/16 | 303 | 127 | Three-tier segmentation strategy & Lab color space correction | Editor's Pick |
 ---
 
 ## 💡 What I Do
