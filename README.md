@@ -103,9 +103,8 @@ I don't just build AI models, I develop solutions that address real user needs. 
 
 I'm actively seeking opportunities in:
 
-**👉 AI Product Manager / Associate Product Manager**  
 **👉 Technical Program Manager**  
-**👉 Machine Learning Engineer**  
+**👉 Operation Program Manager**  
 
 **I'm particularly interested in connecting with:**
 - Teams building AI-powered products in computer vision, generative AI, or multimodal systems
