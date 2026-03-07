@@ -37,7 +37,7 @@ Vision Scout represents a sophisticated approach to visual intelligence, orchest
 - **Foundational Research**: Tackles the fundamental challenge of true scene understanding beyond simple object detection, addressing spatial relationships, functional purposes, and contextual reasoning that form the foundation for future autonomous systems and AI assistants
 - **Future Vision**: Represents ongoing exploration toward achieving genuine scene comprehension, a critical stepping stone toward more general AI systems capable of perceiving, reasoning about, and interacting with the physical world in human-like ways
 - **Community Recognition: Featured on Hugging Face's "Spaces of the Week" with significant user engagement**
-- **Performance Metrics: Over 10,000 visits and 4,000+ GPU runs within three months, demonstrating strong user adoption**
+- **Performance Metrics: Over 11,000 visits and 4,000+ GPU runs within three months, demonstrating strong user adoption**
 - **Links**: [🌐 Try the Demo](https://huggingface.co/spaces/DawnC/VisionScout) | [🗂️ Explore the Project](https://github.com/Eric-Chung-0511/Learning-Record/tree/main/Data%20Science%20Projects/VisionScout)
 
 ## 🌊 VividFlow
