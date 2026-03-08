@@ -104,7 +104,7 @@ I don't just build AI models, I develop solutions that address real user needs. 
 I'm actively seeking opportunities in:
 
 **👉 Technical Program Manager**  
-**👉 Operation Program Manager**  
+**👉 Operation Program Manager/Analytics**
 
 **I'm particularly interested in connecting with:**
 - Teams building AI-powered products in computer vision, generative AI, or multimodal systems
